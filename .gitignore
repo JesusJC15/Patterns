@@ -28,3 +28,12 @@ replay_pid*
 
 # VS Code settings
 .vscode/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+
+# Windows
+Thumbs.db
+ehthumbs.db
